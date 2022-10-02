@@ -7,7 +7,7 @@ A fonte a ser usada e as cores podem ser encontradas aqui:
 
 <img src="/img/design_system_site.png" width="40%">
 
-O protótipo pode ser encontrado neste link: https://bityli.com/3GLXO2
+O protótipo pode ser encontrado neste link: https://www.figma.com/file/ovWn0ywxP8H1I623rhVJzr/PyLadies-Recife
 
 Para saber como construir este site, podes encontrar mais informações em: CONTRIBUITNG.md
 
